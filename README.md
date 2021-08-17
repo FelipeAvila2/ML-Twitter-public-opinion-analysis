@@ -20,6 +20,10 @@ Public opinion is the collective opinion on a specific topic or voting intention
 4. Run the "maindevelop.ipynb" notebook.
 5. This project was done using some dummie examples for the targets, if you want some different analysis you would need to change some parts of the code.
 
+## DISCLAIMER!
+
+This code was runned from 01-07-2021 to 31-07-2021. If you try it again in another timeframe we may have different results.
+
 # Data Pipeline:
 
 ![final_project_landscape](https://user-images.githubusercontent.com/83870535/127627948-122ee655-def3-436f-8f25-a7f0286cd163.png)
